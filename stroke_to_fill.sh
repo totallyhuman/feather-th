@@ -1,5 +1,5 @@
 rm -rf filled
-cp stroked/ filled/
+cp -r stroked/ filled/
 
 for f in filled/*
 do
