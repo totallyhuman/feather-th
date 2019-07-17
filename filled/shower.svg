@@ -51,7 +51,7 @@
   <defs
      id="defs5">
     <clipPath
-       id="_clipPath_hq5VPkVK49t0b46nVs7pLvnJKn6wPYnT">
+       id="_clipPath_IH8BcKXqci7MdaXX81dsVC9L9p3OrqHd">
       <rect
          width="24"
          height="24"
@@ -65,7 +65,7 @@
      inkscape:connector-curvature="0" />
   <path
      style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-     d="m 11.482422,10 a 1.0001,1.0001 0 0 0 -0.691406,0.292969 l -2.4726566,2.476562 c -1.2847375,1.284738 -1.6710145,3.223336 -0.9765625,4.902344 0.6956208,1.678731 2.3406023,2.779297 4.1582031,2.779297 1.817601,0 3.462582,-1.100566 4.158203,-2.779297 0.694452,-1.679008 0.308175,-3.617606 -0.976562,-4.902344 L 12.205078,10.292969 A 1.0001,1.0001 0 0 0 11.482422,10 Z m 0.01563,2.414062 1.769531,1.769532 c 0.716783,0.716782 0.929454,1.786112 0.542969,2.722656 -0.388379,0.937269 -1.296148,1.544922 -2.310547,1.544922 -1.013872,0 -1.9218302,-0.606531 -2.3105469,-1.542969 v -0.002 C 8.802968,15.969706 9.0156393,14.900376 9.7324219,14.183594 a 1.0001,1.0001 0 0 0 0.00195,-0.002 z"
+     d="M 10.607422,10 A 1.0001,1.0001 0 0 0 9.9160156,10.292969 L 7.4433594,12.769531 C 6.1589691,14.05421 5.7732992,15.993555 6.46875,17.671875 c 0.6947366,1.679696 2.3406024,2.779297 4.158203,2.779297 1.816885,0 3.461514,-1.099601 4.15625,-2.779297 0.695803,-1.679169 0.308175,-3.617606 -0.976562,-4.902344 L 11.330078,10.292969 A 1.0001,1.0001 0 0 0 10.607422,10 Z m 0.01563,2.414062 1.769531,1.769532 c 0.717263,0.717262 0.931166,1.785825 0.542969,2.722656 a 1.0001,1.0001 0 0 0 0,0.002 c -0.387264,0.936304 -1.295478,1.542969 -2.308594,1.542969 -1.0143991,0 -1.9232833,-0.606665 -2.3105468,-1.542969 a 1.0001,1.0001 0 0 0 0,-0.002 C 7.9282089,15.969419 8.1413245,14.900928 8.859375,14.183594 a 1.0001,1.0001 0 0 0 0,-0.002 z"
      id="path9"
      inkscape:connector-curvature="0" />
 </svg>
