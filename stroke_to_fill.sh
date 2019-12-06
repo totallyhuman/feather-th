@@ -7,5 +7,13 @@ rm -rf filled
 cp -r stroked/ filled/
 
 for f in filled/*; do
-	inkscape -g --verb=EditSelectAll --verb=SelectionUnGroup --verb=StrokeToPath --verb=EditDeselect --verb=FileSave --verb=FileQuit $f
+	inkscape -g "$f"
+       		--verb=EditSelectAll
+		--verb=SelectionUnGroup
+		--verb=EditDeselect
+		--verb=EditSelectSameStrokeStyle
+		--verb=StrokeToPath
+		--verb=EditDeselect
+		--verb=FileSave
+		--verb=FileQuit
 done
